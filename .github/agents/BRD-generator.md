@@ -1,6 +1,6 @@
 ---
-name:
-description:
+name: BRD-Generator
+description: Agent to generate  Business Requirement Document (BRD)
 ---
 
 # BRD Generator Agent
